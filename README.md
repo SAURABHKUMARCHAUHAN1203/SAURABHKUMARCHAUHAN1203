@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00FFF9&center=true&vCenter=true&width=600&lines=Initializing+SAURABH+KUMAR+CHAUHAN's+System...;Scanning+Neural+Matrix...;Memory+High.;Loading+Modules...;Jarvis+UI+Activated;Welcome+to+Tech+Profile+Hub." alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/SAURABHKUMARCHAUHAN1203/SAURABHKUMARCHAUHAN1203/main/assets/saurabh_hud_jarvis_theme.png" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/44/df/bd44df2f547c1c46c2a865f9921bd7f0.gif" width="400" alt="Jarvis Engine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00FFF9&center=true&vCenter=true&width=600&lines=Initializing+S.A.U.R.A.B.H+Interface...;Booting+Neural+Matrix...;Memory+Overclocked.;Modules+Online.;System+Visuals+Linked." alt="Typing SVG" />
 </p>
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Profile%20Status-ACTIVE-00FFF9?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/AI%20Engine-On-00ff9f?style=for-the-badge&logo=codeforces" />
-</h2>
 
 ---
 
@@ -24,7 +19,7 @@
 
 ---
 
-## 💾 Jarvis Stats Module
+## 💾 Neural Stats Module
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAURABHKUMARCHAUHAN1203&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -34,18 +29,16 @@
 
 ---
 
-## 🔰 Current Mission
-
-> "Build systems that build themselves."
+## 🔰 Neural Core Flowchart
 
 ```mermaid
 flowchart TD
-    A[Neural Core] --> B[Data Filtering Engine]
-    B --> C{Submodules}
+    A[SAURABH Neural Core] --> B[Signal Filtering Engine]
+    B --> C{Subsystems}
     C --> D[Security Override]
-    C --> E[Auto-Bot Protocols]
-    C --> F[Dark Mode Uplink]
-    D --> G[Anti-Spam Threads]
+    C --> E[AutoBot Framework]
+    C --> F[Dark Mode Sync]
+    D --> G[Silent Shield Modules]
 ```
 
 ---
@@ -54,20 +47,16 @@ flowchart TD
 
 > "Lie isn’t a lie until truth is revealed. Tell the truth always, but only that much which is needed — not the whole truth."
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
 ---
 
-## ⚡ System Protocols Online
+## ⚡ Visual Console Online
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=SAURABHKUMARCHAUHAN1203.visitor-badge" alt="visitors"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SAURABHKUMARCHAUHAN1203&count_bg=%2300FFF9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="visitors"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAURABHKUMARCHAUHAN1203/SAURABHKUMARCHAUHAN1203/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake">
 </p>
 
 ---
