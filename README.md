@@ -124,7 +124,9 @@ flowchart TD
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=onedark&column=7" />
+</a>
 
 </div>
 
@@ -197,6 +199,6 @@ flowchart TD
 
 ### 🚀 **"System Ready. Neural Interface Active. Let's Code the Future."**
 
-![Visitor Count](https://profile-counter.glitch.me/SAURABHKUMARCHAUHAN1203/count.svg)
+<img src="https://visitcount.itsvg.in/api?id=SAURABHKUMARCHAUHAN1203&icon=0&color=0" />
 
 </div>
