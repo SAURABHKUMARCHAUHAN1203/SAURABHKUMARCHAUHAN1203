@@ -142,17 +142,6 @@ flowchart TD
 
 ---
 
-## 🎵 **Currently Syncing**
-
-<div align="center">
-
-<!-- Spotify widget -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlup4bhibtgxedhs6fb5xlqm&count=1&unique=true" alt="Spotify recently played"/>
-
-</div>
-
----
-
 ## 🌐 **Neural Network Connections**
 
 <div align="center">
