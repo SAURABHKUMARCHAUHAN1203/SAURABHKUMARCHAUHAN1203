@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF9,100:000000&height=200&section=header&text=SAURABH%20KUMAR%20CHAUHAN&fontSize=40&fontColor=00FFF9&animation=fadeIn&fontAlignY=35&desc=Neural%20Interface%20Developer&descAlignY=55&descSize=18"/>
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFF9&center=true&vCenter=true&width=800&lines=🚀+Initializing+S.A.U.R.A.B.H+Interface...;🧠+Booting+Neural+Matrix...;⚡+Memory+Overclocked;🔥+All+Modules+Online;💻+System+Visuals+Linked;🎯+Ready+for+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFF9&center=true&vCenter=true&width=800&lines=Initializing+S.A.U.R.A.B.H+Interface...;Booting+Neural+Matrix...;Memory+Overclocked;All+Modules+Online;System+Visuals+Linked;Ready+for+Deployment" alt="Typing SVG" />
 
 <!-- Profile views counter with style -->
 <img src="https://komarev.com/ghpvc/?username=SAURABHKUMARCHAUHAN1203&label=Neural%20Connections&color=00fff9&style=for-the-badge" alt="Profile Views"/>
@@ -125,7 +125,7 @@ flowchart TD
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 
 </div>
 
@@ -184,8 +184,8 @@ flowchart TD
 
 <div align="center">
 
-<!-- Metrics cards -->
-<img src="https://metrics.lecoq.io/SAURABHKUMARCHAUHAN1203?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata"/>
+<!-- Activity Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SAURABHKUMARCHAUHAN1203&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=ffffff"/>
 
 </div>
 
