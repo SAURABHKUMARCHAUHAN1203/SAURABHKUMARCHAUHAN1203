@@ -167,16 +167,6 @@ flowchart TD
 
 </div>
 
----
-
-## 📊 **System Status**
-
-<div align="center">
-
-<!-- Activity Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SAURABHKUMARCHAUHAN1203&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=ffffff"/>
-
-</div>
 
 ---
 
