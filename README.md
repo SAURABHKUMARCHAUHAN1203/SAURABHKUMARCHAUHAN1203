@@ -59,8 +59,6 @@ Brain_Config:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAURABHKUMARCHAUHAN1203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=00fff9&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURABHKUMARCHAUHAN1203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=ffffff"/>
 
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAURABHKUMARCHAUHAN1203&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff9&ring=00fff9&fire=00fff9&currStreakLabel=00fff9"/>
 
 </div>
 
@@ -120,15 +118,7 @@ flowchart TD
 
 ---
 
-## 🏆 **Achievement Unlocked**
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 **Neural Activity Graph**
 
