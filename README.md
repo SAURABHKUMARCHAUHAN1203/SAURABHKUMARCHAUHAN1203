@@ -124,8 +124,7 @@ flowchart TD
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=SAURABHKUMARCHAUHAN1203&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -198,7 +197,6 @@ flowchart TD
 
 ### 🚀 **"System Ready. Neural Interface Active. Let's Code the Future."**
 
-<!-- Visitor counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SAURABHKUMARCHAUHAN1203&count_bg=%2300FFF9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Neural%20Connections&edge_flat=false" alt="Neural Connections"/>
+![Visitor Count](https://profile-counter.glitch.me/SAURABHKUMARCHAUHAN1203/count.svg)
 
 </div>
